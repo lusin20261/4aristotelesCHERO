@@ -1,0 +1,6 @@
+print("==========práctica========")
+print("escribe una oración usando al menos 3 imputs.")
+a=input("escribe que haces en tus tiempos libres:")
+w=input("escribe cuantos años tienes:")
+y=input("escribe tu juego favorito:")
+print("hola en mis tiempos libres",a,"mi edad es",w,"y mi juego favorito es",y,"gracias")
